@@ -1,12 +1,19 @@
 Device (Process Control) Monitoring System, a nodejs Application. 
 =================================================================
 Project Name 		        :  Device (Process Control) Monitoring System
+
 Description/Requirement : It's a process control monitoring system of multiple devices/machines. In a process control system, to identify faulty sensors and fix/notify the issue (can be adjusted or stopped) to avoid any production loss.Also it will automatically trigger a notification to respective maintenance to repair or replace the broken device/machine.
+
 Server Side Script 	    : Node JS/Javascript
+
 Web Server 		          : Node JS
+
 Database 		            : Mongo DB
+
 Front-end/UI 		        : HTML5, CSS3, Javascript & jQuery
+
 Platform 		            : Windowns/Linux/Mac
+
 NPM Modules Used	      : 
   - http (For http server)
   - express (As a web application development frameowrk)
